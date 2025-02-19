@@ -1,0 +1,35 @@
+header {
+    background-color: aqua;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+}
+
+.container {
+    display: flex;
+    gap:10px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    
+}
+
+.elemento {
+    gap:10px;
+    text-align: center;
+    width: 400px;
+    color: white
+}
+
+body {
+    background: linear-gradient(70deg,#494cd3,#af86a7),#265df3
+}
+
+a {
+    color: white;
+}
+
+p {
+    font-size: larger;
+}
